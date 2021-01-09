@@ -26,3 +26,7 @@ The DSR logic is implemented in src/components/DsrDemo.js
 - [Integration Examples](https://github.com/makerdao/integration-examples)
 - [DSR Integration Example](https://github.com/makerdao/integration-examples/tree/master/dsr)
 - [DSR Integration Guide](https://github.com/makerdao/developerguides/blob/master/dai/dsr-integration-guide/dsr-integration-guide-01.md#how-to-integrate-with-daijs)
+
+### Competing Protocols
+- [Ampleforth](https://www.ampleforth.org/)
+- [Reserve](https://reserve.org/)
